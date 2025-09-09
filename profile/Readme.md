@@ -2,7 +2,7 @@
 
 ### Registration  **10th – 14th September 2025**
 ### Hackathon Days   **15th - 16th September 2025**
-### Link to Register -
+### Link to Register- [Register Now](https://vision.hack2skill.com/event/codesprint-2/registration)
 
 
 
