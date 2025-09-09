@@ -8,6 +8,7 @@
 ### 🧩 Problem Statement  
 **SIH 2025**
 Problem Statement Excel Sheet -- [Problem Statement Batch 1](https://github.com/Codesprint25/.github/blob/main/problemStatement.xlsx)
+(download to view)
 ---
 
 ## 🎯 Themes
@@ -42,6 +43,67 @@ Problem Statement Excel Sheet -- [Problem Statement Batch 1](https://github.com/
 4. **Faculty Coordinator:** Prof. Debmitra Ghosh  
 
 ---
+
+
+# 🚀 Getting Started with Teams in Codesprint25
+
+Follow these steps to create a team, invite members, and make repositories inside your team.
+
+## Create a New Team
+1. Go to the [Codesprint25 Teams Page](https://github.com/orgs/Codesprint25/teams).
+2. Click on **New team** (top right).
+3. Enter:
+   - **Team name** (e.g., `frontend-devs`, `backend-api`).
+   - **Description** (optional but useful).
+4. Choose **Team visibility**:
+   - `Visible` → Everyone in the org can see it.
+   - `Secret` → Only members of the team know it exists.
+5. Click **Create team**.
+
+---
+
+## Invite Members to Your Team
+1. After creating the team, open the team page.
+2. Click **Invite people**.
+3. Search by username, full name, or email.
+4. Choose the role:
+   - **Member** → Regular access.
+   - **Maintainer** → Can manage team settings and members.
+5. Send the invite.
+
+---
+
+## 3Create a Repository in Your Team
+1. Go to your team’s page (e.g., `Codesprint25/teams/frontend-devs`).
+2. Click on **Repositories** tab.
+3. Select **New repository**.
+4. Fill in:
+   - **Repository name** (e.g., `frontend-ui`).
+   - **Description** (optional).
+   - Choose visibility: **Public** (mandatory).
+5. Click **Create repository**.
+
+---
+
+## Manage Team Permissions on a Repo
+1. On the repository page, click **Settings** → **Collaborators & teams**.
+2. Add your team and set the permission level:
+   - `Read` → View only.
+   - `Triage` → Manage issues/PRs, no code push.
+   - `Write` → Push code, create branches.
+   - `Maintain` → Manage repo settings.
+   - `Admin` → Full control.
+3. Save changes.
+
+---
+
+## Tips
+- Always give **least required permissions** for safety.
+- Use **branches** (e.g., `dev`, `feature-x`) instead of pushing directly to `main`.
+- Keep repo **README.md** updated for new members.
+
+---
+
 
 ## 📜 Terms & Regulations
 
