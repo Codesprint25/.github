@@ -1,7 +1,9 @@
 # 🚀 Codesprint 2025 – Rubrics & Terms and Conditions
 
 ### 📅 Registration  
-**10th – 14th August 2025**
+**10th – 14th September 2025**
+### Hackathon Days
+**15th - 16th September 2025**
 
 ### 🧩 Problem Statement  
 **SIH 2025**
