@@ -46,6 +46,7 @@
 
 # Getting Started with Teams in Codesprint25
 In the registration form, just pass on your GitHub username to us, we will handle allocatitng teams to all of you, no worries :)
+> As usual all the instructions will be given in the discord server about teams on github org, first let's pack up the registration phase.
 
 ---
 ## Judging Criteria (80 Points Total)
@@ -101,47 +102,6 @@ In the registration form, just pass on your GitHub username to us, we will handl
 5. *Priority - 5. UI-UX (1-10):* Quality of pitch and demonstration
 6. *Priority - 6. ML/AI Integration (1-10):* Effective implementation of machine learning or AI components
 
-## Invite Members to Your Team
-1. After creating the team, open the team page.
-2. Click **Invite people**.
-3. Search by username, full name, or email.
-4. Choose the role:
-   - **Member** → Regular access.
-   - **Maintainer** → Can manage team settings and members.
-5. Send the invite.
-
----
-
-## Create a Repository in Your Team
-1. Go to your team’s page (e.g., `Codesprint25/teams/frontend-devs`).
-2. Click on **Repositories** tab.
-3. Select **New repository**.
-4. Fill in:
-   - **Repository name** (e.g., `frontend-ui`).
-   - **Description** (optional).
-   - Choose visibility: **Public** (mandatory).
-5. Click **Create repository**.
-
----
-
-## Manage Team Permissions on a Repo
-1. On the repository page, click **Settings** → **Collaborators & teams**.
-2. Add your team and set the permission level:
-   - `Read` → View only.
-   - `Triage` → Manage issues/PRs, no code push.
-   - `Write` → Push code, create branches.
-   - `Maintain` → Manage repo settings.
-   - `Admin` → Full control.
-3. Save changes.
-
----
-
-## Tips
-- Always give **least required permissions** for safety.
-- Use **branches** (e.g., `dev`, `feature-x`) instead of pushing directly to `main`.
-- Keep repo **README.md** updated for new members.
-
----
 
 
 ## Terms & Regulations
