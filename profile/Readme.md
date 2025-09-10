@@ -45,19 +45,7 @@
 
 
 # Getting Started with Teams in Codesprint25
-
-Follow these steps to create a team, invite members, and make repositories inside your team.
-
-## Create a New Team
-1. Go to the [Codesprint25 Teams Page](https://github.com/orgs/Codesprint25/teams).
-2. Click on **New team** (top right).
-3. Enter:
-   - **Team name** (e.g., `frontend-devs`, `backend-api`).
-   - **Description** (optional but useful).
-4. Choose **Team visibility**:
-   - `Visible` → Everyone in the org can see it.
-   - `Secret` → Only members of the team know it exists.
-5. Click **Create team**.
+In the registration form, just pass on your GitHub username to us, we will handle allocatitng teams to all of you, no worries :)
 
 ---
 ## Judging Criteria (80 Points Total)
