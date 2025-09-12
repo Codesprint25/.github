@@ -187,30 +187,37 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 
 ---
 
-## Tentative Schedule 
-### Day 1: 15th Sept
+## Tentative Schedule  
 
-09:40	- Arrival at Venue
-09:40 – 10:30	Arrival Check-ins 
-10:30 – 11:00	Felicitation & Inauguration  
-11:00 – 5:00	Hacktime (Idea Development & Coding)
-1:00 – 2:00	Lunch Break
-3:30 – 4:30	Mentor Mid-Evaluations (Idea & Solution)
-4:30	Snacks Distribution
-5:00	Dispersal
-5:00 – 11:59	Product Changes (Remote/Off-session allowed)
+### Day 1: 15th Sept  
 
-### Day 2: 16th Sept
+| Time              | Activity                                     |
+|-------------------|----------------------------------------------|
+| 09:40             | Arrival at Venue                             |
+| 09:40 – 10:30     | Arrival Check-ins                            |
+| 10:30 – 11:00     | Felicitation & Inauguration                   |
+| 11:00 – 12:00     | Guest Speech                                 |
+| 10:00 – 5:00      | Hacktime (Idea Development & Coding)          |
+| 1:00 – 2:00       | Lunch Break                                  |
+| 3:30 – 4:30       | Mentor Mid-Evaluations (Idea & Solution)      |
+| 4:30              | Snacks Distribution                          |
+| 5:00              | Dispersal                                    |
+| 5:00 – 11:59      | Product Changes (Remote/Off-session allowed) |
 
-00:00 – 10:00	Product Changes (Remote/Off-session allowed)
-10:00	GitHub Teams Locked (Read-only)
-10:30	Arrival at Venue
-11:00 – 12:00	Speaker Sessions (2 slots)
-12:00 – 1:00	Judges Lunch
-12:00 – 1:00	Lunch (Participants)
-1:00 – 3:30	Judgement Rounds
-1:00 – 4:00	Prize Distribution & Winner Announcements
-4:30	Dispersal
+### Day 2: 16th Sept  
+
+| Time              | Activity                                     |
+|-------------------|----------------------------------------------|
+| 00:00 – 10:00     | Product Changes (Remote/Off-session allowed) |
+| 10:00             | GitHub Teams Locked (Read-only)              |
+| 10:30             | Arrival at Venue                             |
+| 11:00 – 12:00     | Speaker Sessions (1 slot)                    |
+| 12:00 – 1:00      | Judges Lunch                                 |
+| 12:00 – 1:00      | Lunch (Participants)                         |
+| 1:00 – 3:30       | Judgement Rounds                             |
+| 1:00 – 4:00       | Prize Distribution & Winner Announcements    |
+| 4:30              | Dispersal                                    |
+
 
 ---
 
