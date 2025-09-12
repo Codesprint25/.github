@@ -186,39 +186,29 @@ Final rankings will be determined by the total score. In case of a tie, the judg
 - **Photography**: Snigdho Chanakya & Swapnanil Mukherjee.
 
 ---
-
 ## Tentative Schedule  
 
-### Day 1: 15th Sept  
-
-| Time              | Activity                                     |
-|-------------------|----------------------------------------------|
-| 09:40             | Arrival at Venue                             |
-| 09:40 – 10:30     | Arrival Check-ins                            |
-| 10:30 – 11:00     | Felicitation & Inauguration                   |
-| 11:00 – 12:00     | Guest Speech                                 |
-| 10:00 – 5:00      | Hacktime (Idea Development & Coding)          |
-| 1:00 – 2:00       | Lunch Break                                  |
-| 3:30 – 4:30       | Mentor Mid-Evaluations (Idea & Solution)      |
-| 4:30              | Snacks Distribution                          |
-| 5:00              | Dispersal                                    |
-| 5:00 – 11:59      | Product Changes (Remote/Off-session allowed) |
-
-### Day 2: 16th Sept  
-
-| Time              | Activity                                     |
-|-------------------|----------------------------------------------|
-| 00:00 – 10:00     | Product Changes (Remote/Off-session allowed) |
-| 10:00             | GitHub Teams Locked (Read-only)              |
-| 10:30             | Arrival at Venue                             |
-| 11:00 – 12:00     | Speaker Sessions (1 slot)                    |
-| 12:00 – 1:00      | Judges Lunch                                 |
-| 12:00 – 1:00      | Lunch (Participants)                         |
-| 1:00 – 3:30       | Judgement Rounds                             |
-| 1:00 – 4:00       | Prize Distribution & Winner Announcements    |
-| 4:30              | Dispersal                                    |
-
+| Day               | Time                  | Activity                                     |
+|-------------------|-----------------------|----------------------------------------------|
+| Day 1: 15th Sept  | 09:40AM               | Arrival at Venue                             |
+| Day 1: 15th Sept  | 09:40AM - 10:30AM     | Arrival Check-ins                            |
+| Day 1: 15th Sept  | 10:30AM - 11:00AM     | Felicitation & Inauguration                  |
+| Day 1: 15th Sept  | 11:00AM - 12:00PM     | Guest Speech                                 |
+| Day 1: 15th Sept  | 10:00AM - 5:00PM      | Hacktime (Idea Development & Coding)         |
+| Day 1: 15th Sept  | 1:00PM - 2:00PM       | Lunch Break                                  |
+| Day 1: 15th Sept  | 3:30PM - 4:30PM       | Mentor Mid-Evaluations (Idea & Solution)     |
+| Day 1: 15th Sept  | 04:30PM               | Snacks Distribution                          |
+| Day 1: 15th Sept  | 05:00PM               | Dispersal                                    |
+| Day 1: 15th Sept  | 5:00PM - 11:59PM      | Product Changes (Remote/Off-session allowed) |
+| Day 2: 16th Sept  | 00:00AM - 10:00AM     | Product Changes (Remote/Off-session allowed) |
+| Day 2: 16th Sept  | 10:00AM               | GitHub Teams Locked (Read-only)              |
+| Day 2: 16th Sept  | 10:30AM               | Arrival at Venue                             |
+| Day 2: 16th Sept  | 11:00AM - 12:00PM     | Speaker Sessions (1 slot)                    |
+| Day 2: 16th Sept  | 12:00PM - 1:00PM      | Judges Lunch                                 |
+| Day 2: 16th Sept  | 12:00PM - 1:00PM      | Lunch (Participants)                         |
+| Day 2: 16th Sept  | 1:00PM - 3:30PM       | Judgement Rounds                             |
+| Day 2: 16th Sept  | 3:30PM - 4:30PM       | Prize Distribution & Winner Announcements    |
+| Day 2: 16th Sept  | 5:00PM                | Dispersal                                    |
 
 ---
-
 
