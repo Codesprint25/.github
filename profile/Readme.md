@@ -3,7 +3,7 @@
 ### Registration  **10th – 14th September 2025**
 ### Hackathon Days   **15th - 16th September 2025**
 ### Link to Register- [Register Now](https://vision.hack2skill.com/event/codesprint-2/registration)
-
+### Min Team Members - 2 & Max Team Member = 6 (1 Female Teammate is a must)
 
 
 ### Problem Statement  -- **SIH 2025**
